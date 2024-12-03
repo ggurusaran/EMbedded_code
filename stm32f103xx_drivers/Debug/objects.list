@@ -1,0 +1,5 @@
+"./Drivers/Src/stm32f103xx_gpio.o"
+"./Src/button_toggle.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"
